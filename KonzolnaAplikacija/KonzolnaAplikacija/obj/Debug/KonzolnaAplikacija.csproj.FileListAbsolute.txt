@@ -1,0 +1,12 @@
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe.config
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.exe
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\KonzolnaAplikacija.pdb
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.csprojResolveAssemblyReference.cache
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.exe
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\obj\Debug\KonzolnaAplikacija.pdb
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\MyConsole.dll
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\MyConsole.pdb
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\NodaTime.dll
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\NodaTime.pdb
+C:\Users\jurij\source\repos\KonzolnaAplikacija\KonzolnaAplikacija\bin\Debug\NodaTime.xml

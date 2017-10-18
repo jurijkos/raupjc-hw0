@@ -1,0 +1,5 @@
+C:\Users\jurij\source\repos\KonzolnaAplikacija\MyConsole\bin\Debug\MyConsole.dll
+C:\Users\jurij\source\repos\KonzolnaAplikacija\MyConsole\bin\Debug\MyConsole.pdb
+C:\Users\jurij\source\repos\KonzolnaAplikacija\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\jurij\source\repos\KonzolnaAplikacija\MyConsole\obj\Debug\MyConsole.dll
+C:\Users\jurij\source\repos\KonzolnaAplikacija\MyConsole\obj\Debug\MyConsole.pdb
